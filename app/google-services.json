@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998212404714",
+    "project_id": "my-applic-97b05",
+    "storage_bucket": "my-applic-97b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998212404714:android:8568182115843219ad1e93",
+        "android_client_info": {
+          "package_name": "com.example.myapplic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-BU4UDCL4ma7vjmyParK0u_uUIxgcVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
